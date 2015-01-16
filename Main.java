@@ -78,7 +78,7 @@ public class Main {
 			UnitOfWork uow = new UnitOfWork(connection);
 			
 			String createTablejourney = 
-							"CREATE TABLE flights("
+							"CREATE TABLE journey("
 							+ "id int AUTO_INCREMENT PRIMARY KEY,"
 							+ "departureDate VARCHAR(20),"
 							+ "departurePlace VARCHAR(20),"
