@@ -63,7 +63,7 @@ public class Main {
 		pasazer.setSurname("Garski");
 		pasazer.setAge("21");
 		pasazer.setSex("M");
-		pasazer.setIdNumber("AUK 768768");
+		pasazer.setIdNumber("AUK 768068");
 		pasazer.setTicketId(1);
 		pasazer.setJourneyId(1);
 		
