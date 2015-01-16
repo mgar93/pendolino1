@@ -68,7 +68,7 @@ public class Main {
 		pasazer.setJourneyId(1);
 		
 		Ticket bilet = new Ticket();
-		bilet.setPrice("49.00 zl");
+		bilet.setPrice("48.00 zl");
 		bilet.setTicketNumber("086989");
 		bilet.setPassengerId(1);
 		
